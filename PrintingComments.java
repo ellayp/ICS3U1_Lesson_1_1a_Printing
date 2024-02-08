@@ -12,10 +12,25 @@ class PrintingComments extends ConsoleProgram {
     System.out.println("There!!");
 
     // Say hello on the same line
-    
+    System.out.print("Hi");
+    System.out.print("There!!");
     
     // multiline comment
-    
+    // Draw a box
+    System.out.println("*************");
+    System.out.println("*           *");
+    System.out.println("*           *");
+    System.out.println("*           *");
+    System.out.println("*************");
+      
+    // Draw another box
+    /*
+    System.out.println("*************");
+    System.out.println("*           *");
+    System.out.println("*           *");
+    System.out.println("*           *");
+    System.out.println("*************");
+    */
     
 
   }
